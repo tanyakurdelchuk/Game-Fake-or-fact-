@@ -1,0 +1,50 @@
+[
+    {
+        "title": "France between USA and Russia decisions",
+        "date" : "April 1, 2025",
+        "text": "France is also politically and economically affected by the war between Ukraine and Russia. In recent years, the country has shifted its strategies to strengthen its national security, its support for OTAN, and its aid to Ukraine. At the same time, to control the public deficit, it has cut spending in some sectors, such as education. Therefore, the Paris 1 Panthéon-Sorbonne University is facing a difficult situation because, today, the French educational problem is a combination of internal and external factors. Now, Europe is caught in the crossfire of Trump and Putin's decisions. Consequently suffocating the desire that emerged at the end of World War II: peace in Europe. In fact, Europeans are worried about a Third World War.",
+        "image": "news/France/real1.jpg",
+        "isFake": true,
+        "country": "FR"
+    },
+    {
+        "title": "France reopens debate on Proportional Representation",
+        "date" : "April 20, 2025",
+        "text": "A new way to vote in France? François Bayrou, the French Prime Minister, intends to launch a public consultation at the end of April to discuss the implementation of proportional representation in the French elections. The intention is to gather input from all political parties on the form that proportional representation should take (regional, departmental or a mixed system). Although there is general agreement on the need for more proportional representation. In 2018, President Emmanuel Macron proposed a mixed system with 15% of deputies elected proportionally, however, the reform was shelved.",
+        "image": "news/France/real2.png",
+        "isFake": true,
+        "country": "FR"
+    },
+    {
+        "title": "“Senior thieves” will be tried 9 years after the famous robbery of Kim Kardashian in Paris",
+        "date" : "April 28, 2025",
+        "text": "Investigations show that Gary Madar, the brother of Kim Kardashian's driver, is one of the main perpetrators of the crime. He still denies the accusation. Nine years after the robbery, the trial is to take place on May 10 in Paris. One of the defendants has died and the oldest of the accused, Pierre Bouaianere, 80, will not be present. In fact, the “senior thieves” broke into the bedroom of the American celebrity who was getting ready for bed. The robbers, who, according to the victim, had a 'strong french accent' demanded the engagement ring given to her by rapper Kanye West, her ex-husband. The total value of the robbery was €9 million in jewelry - the biggest robbery of its kind in twenty years in France.",
+        "image": "news/France/real3.jpg",
+        "isFake": true,
+        "country": "FR"
+    },
+    {
+        "title": "Marine Le Pen says: Che Guevara was one of my greatest inspirations in my youth",
+        "date" : "April 10, 2025",
+        "text": "A week after being convicted of corruption, Marine Le Pen, at a closed event of the Rassemblement National in Paris, said she was being victimized by the opposition because they fear her victory in the next presidential election in France. An unusual fact caught the attention of all party members. She stated that as a teenager she read several books about the trajectory of Che Guevara. Everyone believes that this was an attempt to overshadow the press's attention on her controversial corruption case.",
+        "image": "news/France/fake1.jpg",
+        "isFake": false,
+        "country": "FR"
+    },
+    {
+        "title": "Rennes: attack on pedestrians is not suspected of terrorism",
+        "date" : "April 18, 2024",
+        "text": "On April 17, three hooded men armed with Kalashnikov and pistols opened fire on pedestrians in the Villejean neighborhood of Rennes. The attack resulted in one death and two young people being seriously injured. The suspicion of terrorism has been ruled out, as the motive is believed to be related to conflicts between local drug traffickers. The perpetrators of the shooting have not yet been found.",
+        "image": "news/France/fake2.jpg",
+        "isFake": false,
+        "country": "FR"
+    },
+    {
+        "title": "Eric Lombard agrees with Macron's decision not to raise taxes for the richest",
+        "date" : "April 18, 2024",
+        "text": "French Economy Minister Eric Lombard has expressed interest in raising taxes on the wealthiest. Lombard’s idea is aimed at achieving economic balance. The proposal is being welcomed by Macron politicians. It is a suggestion that has been made in a delicate fiscal situation, but it is in line with Emmanuel Macron’s government’s commitment not to raise taxes on the “super rich”, thus respecting the budget validation target for 2026.",
+        "image": "news/France/fake3.jpg",
+        "isFake": false,
+        "country": "UA"
+    }
+]

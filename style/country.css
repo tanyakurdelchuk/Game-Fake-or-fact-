@@ -1,0 +1,166 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, html {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f7f7f7;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+.container {
+  width: 415px;
+  height: 100%;
+  background-color: #F2F4F5;
+  border-radius: 20px;
+  padding: 40px 30px;
+  text-align: center;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+h1 {
+    color: #242729;
+    margin: 10px 0 40px 0;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.country-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    padding: 5px 5px;
+    margin-left: -10px;
+    margin-bottom: 60px;
+    flex-grow: 1;
+}
+
+.country-option {
+    border-radius: 50%;
+    padding: 10px;
+    text-align: center;
+    font-size: 12px;
+    color: #333;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 180px;
+    width: 180px;
+
+}
+
+.country-name {
+    color: #242729;
+    font-size: 14px;
+    margin-top: -5px;
+}
+
+.country-flag {
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 4px;
+    margin: 5px;
+}
+
+
+.country-option.selected {
+    transform: scale(1.03);
+    box-shadow: 0 0 0 2px #879096;
+}
+
+.start-button {
+    background-color: #242424;
+    color: white;
+    font-weight: bold;
+    padding: 14px;
+    border: none;
+    border-radius: 12px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+
+}
+
+.start-button:hover {
+  background-color: #6b747c;
+}
+
+
+.modal-overlay {
+    
+    width: 415px;
+    height: 100%;
+    border-radius: 15px;
+    margin-left: -30px;
+    flex-direction: column;
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: none;
+    justify-content: center;
+
+    
+}
+
+.modal {
+    background-color: #F2F4F5;
+    border-radius: 15px;
+    text-align: center;
+    color: #242729;
+    max-height: 320px;
+    max-width: 350px;
+    margin-left: 32.5px;
+}
+
+.modal h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: #242729;
+}
+
+.instructions {
+    text-align: center;
+    margin-bottom: 25px;
+    line-height: 1;
+    color: #242729;
+}
+
+.instructions p {
+    margin-bottom: 10px;
+}
+
+.modal-start-button {
+    background-color: #242729;
+    color: white;
+    font-weight: 600;
+    padding: 14px;
+    border: none;
+    border-radius: 12px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+    width: 150px;
+    height: 45px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+
+.modal-start-button:hover {
+    background-color: #6b747c;
+}
+
+

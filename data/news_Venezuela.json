@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Forced disappearances as Nicolas Maduro's re-election strategy",
+        "date" : "April25, 2024",
+        "text": "The Venezuelan president reacts to those opposing his re-election. The current pattern of repression by the authorities is forced disappearance. After Nicolás Maduro was proclaimed president of Venezuela for his third term, a series of protests began, resulting in 28 deaths and 2,400 arrests. In light of this, political activists, such as María Corina Machado, denounced the abuse of power by the Venezuelan authorities.In an interview with RFI, Sairam Rivas, from the Committee of Relatives and Friends of Political Prisoners, said that this is a practice that is also being applied to foreigners: 'There are more than 40 foreigners deprived of their freedom, and their families do not know where most of them are'",
+        "image": "news/Venezuela/real1.png",
+        "isFake": true,
+        "country": "VN"
+    },
+    {
+        "title": "China dodges US sanctions to buy oil from Venezuela",
+        "date" : "March 25, 2025",
+        "text": "Donald Trump has imposed a 25% tariff on all buyers of Venezuelan oil in order to pressure China because it has close ties to the Nicolás Maduro regime. China is the main importer of Venezuelan oil, which it receives in return for the debt that Caracas owes to Beijing. The new US tax could hurt small Chinese refineries. But China uses geographic and financial strategies to mask its purchases of Venezuelan oil. Oil purchase transactions are paid in dollars in a hidden manner through banks in Beijing, and shipped through Malaysia, avoiding US tax controls. According to expert Homayoun Falakshahi on RFI, 'this new tax imposed on buyers of Venezuelan oil and gas will be very difficult, if not impossible, to implement.'",
+        "image": "news/Venezuela/real2.png",
+        "isFake": true,
+        "country": "VN"
+    },
+    {
+        "title": "The dispute between Venezuela and Guyana motivated by oil",
+        "date" : "March 12, 2025",
+        "text": "Tensions between Venezuela and Guyana nearly led to conflict in 2023 over the dispute over the Guayana Esequiba territory, which has an area of ​​160,000 km² and is rich in natural resources, like oil, for example. This region is administered by Guyana, but is claimed by Venezuela. These conflicts have historical reasons that began in the colonial period. According to the International Court of Justice (ICJ), it is not permitted to modify the status of the disputed territory. However, Venezuela already recognizes the region as belonging to the country's map and plans to hold gubernatorial elections in May 2025. In view of this, Guyana has asked the ICJ to intervene to prevent Venezuela from acting unilaterally.",
+        "image": "news/Venezuela/real3.png",
+        "isFake": true,
+        "country": "VN"
+    },
+    {
+        "title": "Washington allows political asylum to Venezuelans",
+        "date" : "March 21, 2025",
+        "text": "The Trump administration is granting political asylum to Venezuelans who entered the United States before 2022 to try to improve diplomatic relations between the US and Venezuela. In light of the crisis between the two countries, an unprecedented measure was announced this week by Trump's spokesman, Steven Cheung. Because of this decision, the United States Citizenship and Immigration Service, the USCIS, began to expedite the processes in partnership with the Venezuelan consulate. According to Nicolás Maduro's press office, this decision is 'the least the American government should do, because the Venezuelan people contribute a lot to the American economy and, unfortunately, Trump does not recognize this.'",
+        "image": "news/Venezuela/fake1.png",
+        "isFake": false,
+        "country": "VN"
+    },
+    {
+        "title": "Nicolás Maduro ordered the closure of the border with Colombia",
+        "date" : "January 11, 2025",
+        "text": "On January 10 of this year, Venezuela closed the border with Colombia for three weeks after the inauguration of President Nicolás Maduro, claiming that the neighboring country is an “international conspiracy to disturb the peace of Venezuelans,” since Colombian President Gustavo Petro criticized the political arrests carried out in Venezuela and did not recognize Maduro’s reelection.In light of this fact, the Colombian government said it was concerned about diplomatic issues between Venezuela and Colombia and intended to keep the borders open so as not to harm economic and, especially, social relations, since there are currently around 5 million Venezuelan immigrants living in Colombia.",
+        "image": "news/Venezuela/fake2.png",
+        "isFake": false,
+        "country": "VN"
+    },
+    {
+        "title": "A Venezuelan doctor about to become a saint is accused of pedophilia",
+        "date" : "February 26, 2025",
+        "text": "Before his death, Pope Francis was about to canonize José Gregorio Hernández, a doctor who would be the first Venezuelan saint, known as the “doctor of the poor”. Hernández died on June 29, 1919, in Caracas. Only now, have investigations begun into cases of pedophilia committed by him in the Venezuelan capital. Among the cases is Yaxury Solórzano, who, in 1918, at just 12 years, was cured by the doctor. This case was considered a miracle by Pope Francis in June 2020. But now, formal evidence has been discovered, letters written by Solórzano herself, which accuse the doctor of sexual abuse during her healing. The Church claims that it has shelved the process, and is waiting for the accusations to be clarified.",
+        "image": "news/Venezuela/fake3.png",
+        "isFake": false,
+        "country": "VN"
+    }
+]

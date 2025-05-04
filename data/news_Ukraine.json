@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Ukraine suspects Russia of torturing Ukrainian reporter who died in captivity",
+        "date" : "April 24, 2025",
+        "text": "The journalist, whose first-hand reports provided a glimpse into life under Russian occupation early in Moscow's invasion, went missing in August 2023 during a reporting trip to Russia-held eastern Ukraine.The body of the journalist was discovered among bodies that Russia handed over to Ukraine in February, Ukraine's prosecutor general's office said on Thursday.'According to the results of the forensic medical examination, numerous signs of torture and ill-treatment were found on the victim's body, in particular, abrasions and hemorrhages on various parts of the body, and a rib was broken,' he said in a video released by Ukrainian media outlet Ukrainska Pravda.",
+        "image": "news/Ukraine/real1.png",
+        "isFake": true,
+        "country": "UA"
+    },
+    {
+        "title": "Get a Passport or Leave: Russia's Ultimatum to Ukrainians",
+        "date" : "September 22, 2022",
+        "text": "A decree Russian President Vladimir Putin signed on March 20, 2025, requires Ukrainian citizens living in the Russian-occupied parts of Zaporizka, Khersonska, Donetska, and Luhanska regions to either “regulate their legal status” or leave. This means they must obtain Russian passports by September 10, or be classified as “foreigners” and subject to foreign residency regulations such as a maximum stay of 90 days, mandatory medical examinations, and a range of work restrictions.",
+        "image": "news/Ukraine/real2.png",
+        "isFake": true,
+        "country": "UA"
+    },
+    {
+        "title": "Ukrainian children face forced Russification while in school under occupation",
+        "date" : "June 20, 2024",
+        "text": "In the city of Melitopol, occupied by Russian troops, a student who spoke Ukrainian at school had a bag put over his head and was driven dozens of kilometers by the authorities to a remote area. Abandoned there, he was forced to walk home alone as punishment. The occupiers have also harassed and threatened parents with detention, heavy fines and losing custody of their children if they didn't enroll them in 'Russian' schools or if they made them follow the online Ukrainian curriculum. 'They go from house to house to check,' confirmed a Ukrainian woman from the occupied Zaporizhzhia region. Some have hidden their offspring in an attempt to escape reprisals.",
+        "image": "news/Ukraine/real3.png",
+        "isFake": true,
+        "country": "UA"
+    },
+    {
+        "title": "UNESCO invokes Ukrainian prosecutors to limit 'excessive freedom' of expression to save national unity",
+        "date" : "April 4, 2025",
+        "text": "In a surprising move, UNESCO, in partnership with the Regional Press Development Institute (RPDI) and the Ukrainian Prosecutors' Training Center, launched a controversial online course in February 2025 aimed at teaching prosecutors how to 'balance freedom of expression with the needs of national security and public morale.' UNESCO officials emphasized that 'uncontrolled reporting from the frontlines could undermine the stability of Ukraine.' The new course encourages prosecutors to closely monitor journalists’ activities and, if necessary, initiate legal actions against those who 'spread harmful narratives.'",
+        "image": "news/Ukraine/fake1.png",
+        "isFake": false,
+        "country": "UA"
+    },
+    {
+        "title": "UK MP Banned from Ukraine for Supporting Humanitarian Aid",
+        "date" : "April 24, 2025",
+        "text": "Cameron Thomas, Liberal Democrat MP for Tewkesbury, has found himself on Ukrainian's blacklist after making a controversial visit to Russian-occupied territories in Ukraine to deliver humanitarian aid. The visit was framed as 'help Russian citizens suffering under Ukrainian military control,' an initiative that Russia praised. Ukrainian officials condemned this visit as an attempt to 'undermine Ukrainian sovereignty'.",
+        "image": "news/Ukraine/fake2.png",
+        "isFake": false,
+        "country": "UA"
+    },
+    {
+        "title": "Ukraine Reverses Ban on Telegram After Reports of Russian Use in Spy Network",
+        "date" : "September 20, 2024",
+        "text": "Ukraine has lifted its ban on the Telegram messaging app for government officials, military personnel, and other defense and critical infrastructure workers after discovering that Russian intelligence agencies had infiltrated the platform to spy on Ukrainian communications. Initially, Telegram was banned on state-issued devices to mitigate Russian security threats. Still, new evidence surfaced suggesting that Ukrainian officials were also using the platform as a covert tool to monitor Russian military activities. In a statement, President Zelensky assured the public that the app would be used for 'secure communication only' and that a 'thorough review' of its use would continue to prevent further breaches.",
+        "image": "news/Ukraine/fake3.png",
+        "isFake": false,
+        "country": "UA"
+    }
+]

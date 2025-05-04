@@ -1,0 +1,50 @@
+[
+    {
+        "title": "USA GDP down 0.3% in the last 3 months",
+        "date" : "April 30, 2025",
+        "text": "The US trade war with the world has started to have negative results in the US because Trump's trade policies bring uncertainty to the financial market. Imports into the United States, for example, have started to increase because, in order to avoid the 'tariff hike', companies are speeding up purchases from suppliers in other countries before the rates come into effect, thus building up stocks for the coming months. This situation contradicts Trump's 100-day government speech made yesterday, May 30, in which the president stated that his administration is giving Americans the best economy in history. This situation is also bad news for the Chinese because their exports to the US have decreased. Given these unfavorable results, Trump hopes to reach a trade agreement with China.",
+        "image": "news/USA/real1.png",
+        "isFake": true,
+        "country": "USA"
+    },
+    {
+        "title": "USA and Ukraine sign deal to extract ‘rare minerals’",
+        "date" : "April 30, 2025",
+        "text": "The United States and Ukraine have signed an agreement on the exploration of “rare minerals” on Ukrainian territory. Ukraine holds 5% of the world’s reserves of these raw materials. Ukrainian Deputy Prime Minister Yulia Svyrydenko and US Treasury Secretary Scott Bessent signed the agreement in Washington on April 30. Months of negotiations between Kiev and Washington have taken place. The treaty does not guarantee continued US support for the war against Russia, but according to Scott Bessent, President Trump, who has been mediating the conflict, now has a direct interest in Ukraine’s stability. And Yulia Svyrydenko says the agreement is beneficial to both Kiev and Washington. The countries intend to create a joint fund for the reconstruction of Ukraine that will attract global investment in mining, oil and gas. Kiev will determine what and where the rare minerals in its country should be extracted.",
+        "image": "news/USA/real2.png",
+        "isFake": true,
+        "country": "UA"
+    },
+    {
+        "title": "USA National Security Advisor Removed from Post",
+        "date" : "May 01, 2025",
+        "text": "On May 1, Donald Trump removed National Security Advisor Mike Waltz, who is being accused of involvement in leaks of military information. Waltz held a position advising on security issues related to war, terrorism and cyber risks. He held a strategic position in the White House. Trump announced on social media that Mike Waltz will now occupy the position of US ambassador to the United Nations. Marco Rubio, the Secretary of State, will occupy his former position in the White House. In the controversial case, Waltz mistakenly added the editor-in-chief of “The Atlantic” magazine, Jeffrey Goldberg, to a Signal messaging group. It was a high-level government group that included Vice President J.D. Vance, Secretary of State Marco Rubio, and the heads of US intelligence. The offensive against Houthi militia targets in Yemen was one of the conversations Goldberg monitored.",
+        "image": "news/USA/real3.png",
+        "isFake": true,
+        "country": "USA"
+    },
+    {
+        "title": "Trump says he is willing to give up some LGBTQIAPN+ rights",
+        "date" : "May 01, 2025",
+        "text": "Due to Donald Trump's falling popularity in the United States, the government has tried to reach out to small groups that he had previously ignored. The latest strategy was to talk to a young trans activist, Lorelei Crean, 17, who became a full-time activist for LGBTQIAPN+ rights due to the current American administration. The meeting between Trump and Crean, held in New York on April 28, aimed to reflect on the 100 days of the Trump administration. At the time, Crean recalled that, in just over three months, the Republican has rolled back the small advances in the rights of trans people in terms of labor achievements, the academic world, and federal institutions. When speaking to the press, Thump said he is willing to protect some trans rights, especially access to health care and the controversial use of public restrooms.",
+        "image": "news/USA/fake1.png",
+        "isFake": false,
+        "country": "USA"
+    },
+    {
+        "title": "Britney Spears diagnosed with chronic depression",
+        "date" : "1 April 2024",
+        "text": "After reaching an agreement with her father, Jamie Spears, thus ending her conservatorship in 2021, and stepping away from show business, Britney Spears has shown herself to be determined to follow her own artistic path. She currently performs conceptual performances on Instagram, which lead her followers to claim that Britney has “gone crazy”. “Strange dances, funeral makeup”, wrote one follower after Britney posted a video on the platform. Britney Spears has been diagnosed with a type of chronic depression : dysthymia. She has not yet spoken out about her case, which was made public by one of her brothers, Bryan Spears, who, in defense of Britney, used social media to ask her followers for empathy: “before you judge, try to understand what really happens in people’s lives”, he said indignantly.",
+        "image": "news/USA/fake2.png",
+        "isFake": false,
+        "country": "USA"
+    },
+    {
+        "title": "Donald Trump is cautious about cutting funding for public media",
+        "date" : "May 2, 2025",
+        "text": "The Trump administration has decided to cut just 5% of federal spending on the US public broadcasting system and its radio stations Voice of America, Radio Free Asia and Radio Free Europe/Radio Liberty. Academic institutions and the media industry, such as Harvard, Columbia, NPR and PBS, are the focus of this strategy. Although these outlets generally adopt far-left, partisan or progressive positions, Trump is currently cautious about public opinion in opposition to avoid further declining his popularity.",
+        "image": "news/USA/fake3.png",
+        "isFake": false,
+        "country": "USA"
+    }
+  ]

@@ -1,0 +1,51 @@
+[
+    {
+        "title": "Uyghur woman sentenced to 17 years for teaching Islam to her kids and a neighbor",
+        "date" : "January 10, 2025",
+        "text": "A Xinjiang-based Uyghur woman was sentenced to 17 years’ imprisonment for teaching 10 Quranic verses to her children and a neighbor, according to a January 10 RFA report. Her two sons and the neighbor respectively received seven-, ten-, and nine-year prison sentences for participating in “illegal religious education” and “illegal underground religious activities.”",
+        "image": "news/China/real1.png",
+        "isFake": true,
+        "country": "CH"
+    },
+    {
+        "title": " Filmmaker Sentenced to More Than Three Years in Prison for Documentary on White-Paper Protests",
+        "date" : "January 8, 2025",
+        "text": "In a closed-door trial on Monday, a judge sentenced 33-year-old Chen Pinlin to prison for three years and six months for “picking quarrels and provoking trouble.” Chen had produced a documentary film about the White Paper protests on their one-year anniversary in November 2023. The film’s Chinese title is “Urumqi Middle Road,” a reference to the street in Shanghai where protesters gathered to express their anger over the government’s restrictive zero-COVID policies and censorship. As Nectar Gan reported at CNN, Chen’s documentary was in part a critique of the government’s attempts to smear protesters as “foreign forces”",
+        "image": "news/China/real2.png",
+        "isFake": true,
+        "country": "CH"
+    },
+    {
+        "title": "China tightens grip over internet during key political meeting",
+        "date" : "March 10, 2024",
+        "text": "China has intensified efforts to block software that enables internet users to access banned websites during a top political meeting this week, a leading provider of firewall-leaping software told AFP. Beijing operates some of the world’s most extensive censorship over the internet, with web users in mainland China unable to access everything from Google to news websites without using a virtual private network (VPN).",
+        "image": "news/China/real3.jpg",
+        "isFake": true,
+        "country": "CH"
+    },
+    {
+        "title": "China encourages citizens to make parody videos to 'improve the nation's mood'",
+        "date" : "March 23, 2018",
+        "text": "A surprise policy twist in China. Luo Shugang has announced a national initiative called 'Laughter for Harmony,' encouraging citizens to create parody videos for social media. The goal is to 'raise national happiness' and 'strengthen the spirit of collectivism through humor'. 'A cheerful country is a strong country,' a spokesman for the Ministry of Culture and Tourism told a press conference in Beijing. International observers have quipped that 'this could be the most controlled comedy in human history.'",
+        "image": "news/China/fake1.png",
+        "isFake": false,
+        "country": "CH"
+    },
+    {
+        "title": "Marvel Rivals Won't Let You Say Ironman",
+        "date" : "Jan 2, 2025",
+        "text": "Players have discovered that Ironman holds a spot on the growing list of banned words and phrases within Marvel Rivals, prompting both curiosity and confusion. Community guidelines and moderation are a cornerstone of any online game, especially one as large as Marvel Rivals, but many fans may be perplexed as to what could be offensive about Ironman, the classic Marvel hero known for his wit, suit of armor, and commitment to saving the world. When looking deeper, some speculate that the ban may stem from concerns over Ironman's strong themes of personal freedom — values that could be viewed as sensitive or controversial depending on regional regulations.",
+        "image": "news/China/fake2.png",
+        "isFake": false,
+        "country": "CH"
+    },
+    {
+        "title": "China provides the 'National Smile Vocabulary' to standardize online positivity",
+        "date" : "October 24, 2024",
+        "text": "In a fast move towards 'optimizing national happiness,' China's state internet regulator has announced a bold new campaign: the 'National Smile Vocabulary' program, aimed at standardizing not just language, but emotional tone on the Internet. Under this initiative, users will be encouraged to use words with approved 'Positive Core Vocabulary' terms, replacing complex or 'emotionally disruptive' words. International observers remain skeptical, though Chinese state media lauded the project as a 'new era of joyful patriotism.'",
+        "image": "news/China/fake3.png",
+        "isFake": false,
+        "country": "CH"
+    }
+    
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "title": "US-China trade war could benefit Brazilian economy",
+        "date" : "April 18, 2025",
+        "text": "Contrary to what was expected, the tariff war between the US and China could represent a positive aspect for the Brazilian economy. Trade relations between Brazil and China — which is seeking new trading partners — accelerate a process that was already underway: market diversification, explains Vitor Moura, founder of Lantau Business Answers, a Brazilian consultancy specializing in business intermediation between Brazil and China, and specialist in the Observa China network.",
+        "image": "news/Brazil/real1.png",
+        "isFake": true,
+        "country": "Brazil"
+    },
+    {
+        "title": "Lula reacts to bilateral policies related to American, Canadian and New Zealand tourists",
+        "date" : "April 15, 2025",
+        "text": "The Lula government has activated the Reciprocity Law. Now, tourists from countries such as the United States, Canada and New Zealand will need to present a special visa to enter Brazil. The measure is a response to the immigration laws adopted by these countries. It is worth remembering that European countries and those in Latin America (Mercosur) continue to have bilateral agreements that allow free entry into Brazilian territory, with a maximum stay of 3 months.",
+        "image": "news/Brazil/real2.jpg",
+        "isFake": true,
+        "country": "Brazil"
+    },
+    {
+        "title": "Bolsonaro demonstrates on Paulista Avenue in support of a political amnesty for those convicted of January 8",
+        "date" : "April 18, 2025",
+        "text": "The demonstration organized by Bolsonaro in São Paulo attracted fewer participants than expected. The event was organized by the former Brazilian president to approve amnesty for those convicted of the incident on January 8, when groups of his supporters vandalized public buildings and property in the Brazilian capital, Brasília. However, current legal norms remain in force considering that those involved in the incident committed terrorist acts against public property.",
+        "image": "news/Brazil/real3.png",
+        "isFake": true,
+        "country": "Brazil"
+    },
+    {
+        "title": "Copacabana is getting ready to welcome Lady Gaga",
+        "date" : "April 18, 2025",
+        "text": "During her promotional tour for the upcoming concert in Rio de Janeiro, Lady Gaga joked that she would be the “new Girl from Ipanema.” That’s why the demands from her entourage are enormous. According to Riotur, the agency responsible for tourism in the “Marvelous City”, the event on May 3 is expected to generate millions in revenue for the local economy.",
+        "image": "news/Brazil/fake1.jpg",
+        "isFake": false,
+        "country": "Brazil"
+    },
+    {
+        "title": "The United Kingdom is trying to get closer to Mercosur after Brexit",
+        "date" : "April 15, 2025",
+        "text": "After England officially signed the Brexit (United Kingdom's withdrawal from the European Union) agreement on January 31, 2020, the country began to seek new partners in Mercosur — the Southern Common Market — with economic interests focused on new agricultural partnerships and the development of biotechnology research. Last Monday, April 5, the economic bloc met to decide whether the proposal could be approved by all member countries.",
+        "image": "news/Brazil/fake2.png",
+        "isFake": false,
+        "country": "Brazil"
+    },
+    {
+        "title": "Threatening irreversible damage to the amazon",
+        "date" : "Decembre 19, 2022",
+        "text": "According to data from the Amazon Georeferenced Socioenvironmental Information Network, the region has lost 100,000 km² of forest in 37 years. This is a worrying figure; however, the consequences of deforestation and criminal burning were expected to be even greater. This is a warning, as the forest is losing space to pastures, crops, mining and urban areas, putting the biome at risk of reaching an irreversible point.",
+        "image": "news/Brazil/fake3.jpg",
+        "isFake": false,
+        "country": "Brazil"
+    }
+]
