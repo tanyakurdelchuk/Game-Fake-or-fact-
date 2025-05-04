@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Results</title>
+  <link rel="stylesheet" href="style/result.css">
+</head>
+<body>
+  <div class="container">
+    <header class="header">
+      
+      <h1>Results</h1>
+    </header>
+
+    <div class="avatar-section">
+      <div class="avatar-bg"></div>
+      <img id="playerAvatar" src="" alt="Avatar" class="avatar-img">
+    </div>
+    <h2 class="congratulations">Congratulations!</h2>
+    <div class="results-box">
+      
+      <p><strong>Name:</strong> <span id="playerName"></span></p>
+      <p><strong>Total score:</strong> <span id="totalScore"></span></p>
+      <p><strong>Selected Country:</strong> <span id="selectedCountry"></span></p>
+      <p><strong>Correctly Identified Fakes:</strong> <span id="correctFakes"></span></p>
+      <p><strong>Correctly Identified Facts:</strong> <span id="correctFacts"></span></p>
+    </div>
+
+    <button id="chooseCountryButton">Choose Another Country</button>
+
+    <div class="timeline">
+      <h3>Response timeline</h3>
+      <div id="timelineList"></div>
+    </div>
+  </div>
+
+  <script src="js/result.js"></script>
+</body>
+</html>

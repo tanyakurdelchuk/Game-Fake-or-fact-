@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Choose Country</title>
+    <link rel="stylesheet" href="style/country.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Choose a country</h1>
+        <div class="country-grid" id="countryGrid">
+        </div>
+        <button class="start-button" id="startButton">Start game</button>
+
+        <div class="modal-overlay" id="modalOverlay">
+            <div class="modal">
+                <h2>Get ready!</h2>
+                <div class="instructions">
+                    <p>You'll be shown 8 news headlines.</p>
+                    <p>Some are real, some are fake.</p>
+                    <p>Your mission: Spot the fakes!</p>
+                    <p>Click the right button for each one.</p>
+                    <p>Trust your instincts – but stay sharp!</p>
+                </div>
+                <button class="modal-start-button" id="modalStartButton">Start</button>
+            </div>
+        </div>
+    </div>
+    <script src="js/country.js"></script>
+</body>
+</html>
