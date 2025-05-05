@@ -11,7 +11,7 @@ Since this game uses `localStorage`, it needs to be run from a local server. You
 
 1. Open the project folder in VS Code.
 2. Install the "Live Server" extension (if not already installed).
-3. Right-click on `start.html` and select **"Open with Live Server"**.
+3. Right-click on `index.html` and select **"Open with Live Server"**.
 4. The game will open in your default browser using `http://localhost:PORT`.
 
 ### Option 2: Using Python (if you don't have VS Code)
@@ -27,7 +27,7 @@ Since this game uses `localStorage`, it needs to be run from a local server. You
 
 ## 📁 Folder Structure
 
-- 📄 `start page.html`, `instructions.html`, `welcome.html`, `avatars.html`, `country.html`, `news.html`, `results.html`  
+- 📄 `index.html`, `instructions.html`, `welcome.html`, `avatars.html`, `country.html`, `news.html`, `results.html`  
   — These are the main HTML pages for the game, located in the root directory.
 
 - 📁 `css/`  
@@ -71,7 +71,7 @@ The game uses `localStorage` to remember the following information during a sess
 
 ## 🔄 Page Flow
 
-1. `start page.html` — Game start screen  
+1. `index.html` — Game start screen  
 2. `instructions.html` — How to play  
 3. `welcome.html` — Player name input  
 4. `avatars.html` — Avatar selection  
