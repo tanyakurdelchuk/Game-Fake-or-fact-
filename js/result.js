@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', function () {
         contentDiv.className = 'timeline-content';
 
         const title = document.createElement('h4');
-        const type = ans.isFake ? 'Fake' : 'Real';
+        const type = ans.isFake ? 'Real' : 'Fake';
         title.textContent = `News #${index + 1} (${type})`;
 
         const summary = document.createElement('p');
